@@ -1,0 +1,17 @@
+p{
+    font-size: 24px;
+    background-color: rgb(185, 186, 193);
+}
+.cont{
+    display: inline-block;
+    text-align: center;
+    
+    margin: 20px;
+    margin-top: 70px;
+}
+.main{
+    text-align: center;
+}
+.cont>img{
+    max-width: 300px;
+}
